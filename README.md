@@ -11,6 +11,15 @@ A game designed to train your ability to retain and recall sounds you heard afte
 | birth year | May, 2020 |
 | tech & tools | Unity, C#, Playfab, MSSQL, Adobe XD |
 
+## Screenshots
+<p float="left">
+  <img src="ss\gameDescription.jpg" width="200" />
+  <img src="ss\chooseALevel_andTooltip.jpg" width="200" /> 
+  <img src="ss\settings.jpg" width="200" /> 
+  <img src="ss\Level1.jpg" width="200" /> 
+  <img src="ss\Level2_1.jpg" width="200" /> 
+  <img src="ss\Level2_2.jpg" width="200" /> 
+</p>
 
 ### Submit issues here
 https://github.com/bowtiedalien/MemoryGames
